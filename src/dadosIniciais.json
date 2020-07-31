@@ -1,0 +1,109 @@
+{
+  "categorias": [
+    {
+      "titulo": "Dicas",
+      "link": "https://www.youtube.com/watch?v=BMr_xHAxbY8",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Dicas de filmes",
+        "url": "https://www.youtube.com/watch?v=BMr_xHAxbY8"
+      },
+      "videos": [
+        {
+          "titulo": "Os melhores filmes nerds de 2019",
+          "url": "https://www.youtube.com/watch?v=BMr_xHAxbY8"
+        },
+        {
+          "titulo": "11 filmes que vão te fazer pensar por dias",
+          "url": "https://www.youtube.com/watch?v=zFABirwp_PE"
+        },
+        {
+          "titulo": "Dicas de filmes e séries para ver na quarentena",
+          "url": "https://www.youtube.com/watch?v=U7krANOz-kw"
+        },
+        {
+          "titulo": "5 melhores filmes de 2020",
+          "url": "https://www.youtube.com/watch?v=ven3eAF_dIM"
+        },
+        {
+          "titulo": "10 melhores filmes para ver na netflix",
+          "url": "https://www.youtube.com/watch?v=Md5GnZsefEA"
+        },
+        {
+          "titulo": "8 filmes muito bons para ver na Amazon Prime Video",
+          "url": "https://www.youtube.com/watch?v=WM3auHiJJ0I"
+        }       
+      ]
+    },
+    {
+      "titulo": "Trailers",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Trailers de filmes",
+        "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
+      },
+      "videos": [
+        {
+          "titulo": "Velozes e Furiosos 9",
+          "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4"
+        },
+        {
+          "titulo": "Os órfãos",
+          "url": "https://www.youtube.com/watch?v=ty5QzLcZzZM"
+        },
+        {
+          "titulo": "Mulher Maravilha 1984",
+          "url": "https://www.youtube.com/watch?v=rcFMPOHZrUE"
+        },
+        {
+          "titulo": "Mulan",
+          "url": "https://www.youtube.com/watch?v=FHP5hOOUYME"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Para quem gosta",
+        "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+      },
+      "videos": [
+        {
+          "titulo": "The Last Of Us 2",
+          "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+        },
+        {
+          "titulo": "Ghost of Tsushima",
+          "url": "https://www.youtube.com/watch?v=iqysmS4lxwQ"
+        },
+        {
+          "titulo": "Cyberpunk 2077",
+          "url": "https://www.youtube.com/watch?v=YApuEWtG30w"
+        }
+      ]
+    },
+    {
+      "titulo": "Séries",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Defending Jacob",
+          "url": "https://www.youtube.com/watch?v=od5HLj7GwGo"
+        },
+        {
+          "titulo": "Stranger Things",
+          "url": "https://www.youtube.com/watch?v=ym9vUBUMmpU"
+        },
+        {
+          "titulo": "Dark",
+          "url": "https://www.youtube.com/watch?v=9RNHKKYJvg8"
+        },
+        {
+          "titulo": "The Witcher",
+          "url": "https://www.youtube.com/watch?v=tjujvMkqWe4"
+        }
+      ]
+    }
+  ]
+}
